@@ -7,29 +7,29 @@ it runs entirely in the console with a simple text ui focused on clarity and spe
 
 ### updates
 
->> debug and room bot → photon room joiner and creator
->> room spammer for photon
->> room logger (still in debug)
->> playerbase grabber (playerid support)
->> revision grabber and setter
->> improved layout and tab system
+> debug and room bot → photon room joiner and creator
+> room spammer for photon
+> room logger (still in debug)
+> playerbase grabber (playerid support)
+> revision grabber and setter
+> improved layout and tab system
 
 ---
 
 ### ui overview
 
->> navigating through options is done by typing listed commands, with arrows used to move between sections.
+> navigating through options is done by typing listed commands, with arrows used to move between sections.
 
 ---
 
 ### access
 
 key: **stopskidding**  
->> enter this key at startup to log in and access available modules.
+> enter this key at startup to log in and access available modules.
 
 ---
 
 ### credits
 
->> created by crimson
->> remade and maintained by basic/x1
+> created by crimson
+> remade and maintained by basic/x1
